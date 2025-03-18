@@ -10,7 +10,6 @@ I'm a developer who enjoys tinkering with code to automate repetitive tasks. My 
 
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=DimaErmakov&show_icons=true&locale=en&theme=dark)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=DimaErmakov&show_icons=true&theme=dark&count_private=true&rank_icon=github&include_all_commits=true&ring_color=ffbf00)
-![Github Streak](https://streak-stats.demolab.com/?user=DimaErmakov&theme=dark)
 ![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=DimaErmakov&theme=darkhub&margin-w=10&no-bg=true&column=-1)
 
 ## Contact Me
